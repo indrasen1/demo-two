@@ -1,4 +1,4 @@
 # demo-two
-Example of GH repo with new default main branch name\\
-
-Simple edit
+Example of GH repo with new default main branch name\
+Simple edit\
+Another simple edit
